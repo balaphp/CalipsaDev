@@ -16,14 +16,6 @@ npm test
 
 ```
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ### Run linter
 
 ```
@@ -38,6 +30,7 @@ Give an example
 - Socket.io
 - Webpack
 - ExpressJS
+- lowdb
 
 
 
