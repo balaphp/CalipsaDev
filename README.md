@@ -4,7 +4,7 @@ Calipsa Dev Assignment
 
 ## Getting Started
 
-To run the project simply type
+To run the project type
 ```
 docker-compose up
 ```
