@@ -13,7 +13,6 @@ docker-compose up
 
 ```
 npm test
-
 ```
 
 ### Run linter
