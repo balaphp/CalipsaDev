@@ -1,0 +1,13 @@
+<script src="/socket.io/socket.io.js"></script>
+<script>
+  const socket = io.connect('http://localhost:3000');
+  socket.on('news', (data) => {
+    console.log(data);
+    socket.emit('registerMe', { 'X-API-KEY': 'X182J-3998C1-511921-T45CD' });
+    socket.emit('sendData', {'record': {'test': 123}})
+  });
+</script>
+
+<html>
+  Hello World
+</html>

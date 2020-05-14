@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  calipsabackend:
+    build: './Calipsa'
+    ports:
+    - 80:80
+    - 3000:3000
+  calipsafrontend:
+    build: './CalipsaFe'
+    ports:
+    - 9000:9000

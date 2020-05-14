@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "source": "Web Socket",
+      "message": {
+        "test": 123
+      },
+      "processed": true,
+      "duration": "0.818"
+    },
+    {
+      "source": "Web Socket",
+      "message": {
+        "test": 123
+      },
+      "processed": true,
+      "duration": "0.42"
+    },
+    {
+      "source": "Web Socket",
+      "message": {
+        "test": 123
+      },
+      "processed": true,
+      "duration": "0.394"
+    },
+    {
+      "source": "Web Socket",
+      "message": {
+        "test": 123
+      },
+      "processed": true,
+      "duration": "0.591"
+    },
+    {
+      "source": "Web Socket",
+      "message": {
+        "test": 123
+      },
+      "processed": true,
+      "duration": "0.381"
+    },
+    {
+      "source": "Web Socket",
+      "message": {
+        "test": 123
+      },
+      "processed": true,
+      "duration": "0.153"
+    }
+  ]
+}

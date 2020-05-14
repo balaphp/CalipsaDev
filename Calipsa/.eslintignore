@@ -1,0 +1,7 @@
+devtools/*.js
+config/*
+.serverless_plugins/*
+node_modules
+coverage
+.vscode
+.history
