@@ -23,7 +23,7 @@ npm test
 ```
 
 
-## Stack
+## What is used
 
 - Node JS
 - Vue JS
